@@ -122,17 +122,6 @@ business narratives** — combining statistical forecasting with generative reas
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<!-- 🔧 Replace `vijaymmp` below if your GitHub username changes -->
-
-![Vijay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vijaymmp&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vijaymmp&layout=compact&theme=tokyonight&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vijaymmp&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
